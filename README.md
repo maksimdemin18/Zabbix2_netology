@@ -85,3 +85,25 @@
 <img width="1919" height="1079" alt="Screenshot_20260109_220620" src="https://github.com/user-attachments/assets/01b80adb-20ea-488a-a631-3501b0b4e82d" />
 <img width="1919" height="1079" alt="Screenshot_20260109_220646" src="https://github.com/user-attachments/assets/e6a798b5-6b24-4254-944e-a0f15c44a57f" />
 
+### Задание 6
+
+Что нужно сделать:
+
+Создайте UserParameter на bash и прикрепите его к созданному вами ранее шаблону. Он должен вызывать скрипт, который:
+
+при получении 1 будет возвращать ваши ФИО,
+при получении 2 будет возвращать текущую дату.
+Требования к результату
+￼ Прикрепите в файл README.md код скрипта, а также скриншот Latest data с результатом работы скрипта на bash, чтобы был виден результат работы скрипта при отправке в него 1 и 2
+
+### Решение:
+<img width="1919" height="1079" alt="Screenshot_20260109_223431" src="https://github.com/user-attachments/assets/607f1197-5888-47f7-9ef7-68c6ef38580a" />
+
+<img width="1919" height="1079" alt="Screenshot_20260109_223444" src="https://github.com/user-attachments/assets/359c4a03-7c58-450a-a951-eb38574b5107" />
+
+<img width="1919" height="1079" alt="Screenshot_20260109_223409" src="https://github.com/user-attachments/assets/d45dc512-d558-4f6b-994b-250a388ab90d" />
+
+<img width="1920" height="1081" alt="Screenshot_20260109_223522" src="https://github.com/user-attachments/assets/7a4ceb5d-1462-4fe8-8deb-29a7a3be7593" />
+
+
+
